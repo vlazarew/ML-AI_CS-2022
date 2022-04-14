@@ -1,5 +1,12 @@
 # ML-AI_CS-2022
 
+## Main info
+Датасет был взят с Kaggle - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+
+В результате работы удалось добиться результатов выше, чем в прочих реализациях по данному датасету. 
+Выводом из проведенного исследования является заключение, что корреляция между оценкой и потреблением алкоголя не очень высокая.
+
+
 |  | school | sex | age | address | famsize | Pstatus | Medu | Fedu | Mjob | Fjob | reason | guardian | traveltime | studytime | failures | activities | nursery | higher | internet | romantic | famrel | freetime | goout | Dalc | Walc | health | absences | G1 | G2 | G3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |---| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 0 | GP | F | 18 | U | GT3 | A | 4 | 4 | at_home | teacher | course | mother | 2 | 2 | 0 | no | yes | yes | no | no | 4 | 3 | 4 | 1 | 1 | 3 | 6 | 5 | 6 | 6 |
